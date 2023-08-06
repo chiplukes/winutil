@@ -3,10 +3,6 @@
     "winget": "Adobe.Acrobat.Reader.64-bit",
     "choco": "adobereader"
   },
-  "WPFInstalladvancedip": {
-    "winget": "Famatech.AdvancedIPScanner",
-    "choco": "advanced-ip-scanner"
-  },
   "WPFInstallanydesk": {
     "winget": "AnyDeskSoftwareGmbH.AnyDesk",
     "choco": "anydesk"
@@ -179,18 +175,6 @@
     "winget": "clsid2.mpc-hc",
     "choco": "mpc-hc"
   },
-  "WPFInstallmremoteng": {
-    "winget": "mRemoteNG.mRemoteNG",
-    "choco": "mremoteng"
-  },
-  "WPFInstallnodejs": {
-    "winget": "OpenJS.NodeJS",
-    "choco": "nodejs"
-  },
-  "WPFInstallnodejslts": {
-    "winget": "OpenJS.NodeJS.LTS",
-    "choco": "nodejs-lts"
-  },
   "WPFInstallnotepadplus": {
     "winget": "Notepad++.Notepad++",
     "choco": "notepadplusplus"
@@ -306,10 +290,6 @@
   "WPFInstallwindirstat": {
     "winget": "WinDirStat.WinDirStat",
     "choco": "windirstat"
-  },
-  "WPFInstallscp": {
-    "winget": "WinSCP.WinSCP",
-    "choco": "winscp"
   },
   "WPFInstallwireshark": {
     "winget": "WiresharkFoundation.Wireshark",
@@ -518,10 +498,6 @@
   "WPFInstallubisoft": {
     "winget": "Ubisoft.Connect",
     "choco": "ubisoft-connect"
-  },
-  "WPFInstallnuget": {
-    "winget": "Microsoft.NuGet",
-    "choco": "nuget.commandline"
   },
   "WPFInstallwinrar": {
     "winget": "RARLab.WinRAR",
